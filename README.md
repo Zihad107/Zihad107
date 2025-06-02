@@ -1,6 +1,6 @@
 ### Hi there 👋, Hi 👋, I'm Zihad Khan from Bangladesh A Data Analyst passionate about transforming raw data into meaningful business insights.
 #### CSE Graduate from East West University, Bangladesh | Data Analyst | Power BI Specialist | Experienced in PHP & SQL Development | Proficient in C#
-![CSE Graduate from East West University, Bangladesh | Data Analyst | Power BI Specialist | Experienced in PHP & SQL Development | Proficient in C#](https://media.licdn.com/dms/image/v2/D5603AQElC1lv1Cls2Q/profile-displayphoto-shrink_800_800/B56ZVNKa_aHoAc-/0/1740756334364?e=1754524800&v=beta&t=Qq2_pjULNQj-YMiJVK8eOPXwf5TSbU8D2y9zbov2HRw)
+![CSE Graduate from East West University, Bangladesh | Data Analyst | Power BI Specialist | Experienced in PHP & SQL Development | Proficient in C#]
 
 Welcome to my professional space, where data isn't just collected—it's understood, interpreted, and transformed into strategic value.
 
