@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zihad</h1>
+<h1 align="center">Hi 👋, I'm Zihad Khan</h1>
 <h3 align="center">An enthusiastic Data Analyst from Bangladesh, turning data into impactful business decisions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zihad107&label=Profile%20views&color=0e75b6&style=flat" alt="zihad107" /> </p>
