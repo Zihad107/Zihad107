@@ -1,3 +1,4 @@
+![](https://media.licdn.com/dms/image/v2/D5616AQEM7BbtmsQp6A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1739120140718?e=1754524800&v=beta&t=ZLM6KzNlUuVOCCnAbTjRXQRbYXQE9_mjqvHgFF8DLTw)
 <h1 align="center">Hi 👋, I'm Zihad Khan</h1>
 <h3 align="center">An enthusiastic Data Analyst from Bangladesh, turning data into impactful business decisions.</h3>
 
