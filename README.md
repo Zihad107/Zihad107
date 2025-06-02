@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Zihad Khan</h1>
-<h3 align="center">An enthusiastic Data Analyst from Bangladesh, turning data into impactful business decisions.</h3><br>
-
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<h3 align="center">An enthusiastic Data Analyst from Bangladesh, turning data into impactful business decisions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zihad107&label=Profile%20views&color=0e75b6&style=flat" alt="zihad107" /> </p>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 🔭 I’m currently working on [BDLENTIL: A comprehensive dataset of different lentils found in Bangladesh](https://data.mendeley.com/datasets/ksxcmtwbhy/1)
 
