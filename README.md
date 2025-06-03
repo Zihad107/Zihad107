@@ -38,25 +38,43 @@
 
 ---
 
+### 🧑‍💻 Key Languages
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <!-- GitHub stats -->
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=zihad107&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-
-  <!-- Most Used Languages - try to bring up HTML -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zihad107&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" width="48%" />
+  
+  <!-- Language stats -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zihad107&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
 </p>
 
+---
+
+### 🔥 Contribution Streak
+
 <p align="center">
-  <!-- Contribution streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zihad107&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
 ---
 
-<!-- Snake Animation -->
+
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zihad107/zihad107/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/zihad107/zihad107/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zihad107/zihad107/output/github-snake-dark.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/zihad107/zihad107/output/github-snake.svg" />
 </picture>
+
+---
+
