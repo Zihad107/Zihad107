@@ -10,6 +10,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
+---
+
 ### 🧠 About Me
 
 - 🔭 Currently working on: [**BDLENTIL Dataset**](https://data.mendeley.com/datasets/ksxcmtwbhy/1)  
@@ -36,18 +38,24 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
+  <!-- GitHub stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=zihad107&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zihad107&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+
+  <!-- Most Used Languages - try to bring up HTML -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zihad107&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
+  <!-- Contribution streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zihad107&theme=tokyonight&hide_border=true" width="60%" />
 </p>
-<!-- Snake Animation -->
 
+---
+
+<!-- Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zihad107/zihad107/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/zihad107/zihad107/output/github-snake.svg" />
